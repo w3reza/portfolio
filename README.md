@@ -1,6 +1,6 @@
-# Pportfolio
+# Portfolio Project
 
-Short description of your project.
+This is my personal portfolio project, a showcase of my skills, projects, and achievements. Designed to reflect my personality and professional journey, the portfolio includes a curated selection of projects that highlight my proficiency in various technologies and my passion for creating meaningful and innovative solutions.
 
 ## Table of Contents
 
